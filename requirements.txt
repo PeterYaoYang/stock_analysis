@@ -1,0 +1,7 @@
+PyQt5==5.15.10
+pandas>=2.2.0
+numpy>=1.26.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+PyInstaller>=6.0.0
+
